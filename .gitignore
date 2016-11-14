@@ -1,0 +1,10 @@
+.DS_STORE
+*.log
+.idea
+node_modules
+node_modules.zip
+_*
+client/bower_components
+dist
+uploads
+static
